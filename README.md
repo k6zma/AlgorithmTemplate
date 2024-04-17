@@ -22,6 +22,7 @@ This section includes implementations of essential data structures:
 - **AVL Tree:** Self-balancing binary search tree.
 - **Binary Search Tree (BST):** Basic BST operations.
 - **Heap:** Max and min heap implementations.
+- **Graph:** Graph implemented using adjacency list and matrix.
 - **Queue:** Queue implemented using nodes and vectors.
 - **Stack:** Stack implemented using nodes and vectors.
 
